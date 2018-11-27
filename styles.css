@@ -1,0 +1,59 @@
+h1 {
+    color:#ffa500;
+    font-size:50px;
+}
+h2 {
+    color:#fe59c2;
+    font-size:100px;
+}
+p {
+    color:#0000ff;
+    font-size:60px;
+}
+body {
+    background-image: url("https://wallpaperstream.com/wallpapers/full/spider-man/Spider-Man-Minimal-Artwork-Wallpaper.jpg");
+    height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button {
+    color:#87cefa;
+    font-size:30px;    
+}
+.rip {
+    width:400px;
+    border: dotted #ff0000 ; 
+}
+.couch {
+    width:400px;
+    border: dotted #0000ff  ;  
+}
+.hugh {
+    width:400px;
+    border: dotted 	#ADFF2F;  
+}
+.vote  {
+    width:650px;
+    border: dotted #ffa500 ;  
+}
+.votestan {
+    display:flex;
+    justify-content:center;
+}
+.ripstan {
+    display:flex;
+    justify-content:center;
+}
+.buttonstan {
+    display:flex;
+    justify-content:center;
+}
+.slogan1 {
+    display:flex;
+    justify-content:center;
+}
+.slogan2 {
+    display:flex;
+    justify-content:center;
+}
